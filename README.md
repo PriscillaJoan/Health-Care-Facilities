@@ -25,15 +25,15 @@ To set up the project on your local machine, follow these steps:
 
 1. **Clone the repository**:
 
-   \```
+   ```
    git clone https://github.com/PriscillaJoan/Health-Care-Solutions.git
-   \```
+   ```
 
 2. **Navigate to the project directory**:
 
-   \```
+   ```
    cd Health-Care-Solutions
-   \```
+   ```
 
 ## Usage
 
@@ -41,9 +41,9 @@ To run the project and see the analysis:
 
 1. **Open the Jupyter Notebook**:
 
-   \```
+   ```
    jupyter notebook
-   \```
+   ```
 
 2. **Navigate to the `final workbook.ipynb` notebook** in the Jupyter interface and run the cells to execute the analysis and generate visualizations.
 

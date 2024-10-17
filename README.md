@@ -39,13 +39,6 @@ To run the project and see the analysis:
 
 2. **Navigate to the `final workbook.ipynb` notebook** in the Jupyter interface and run the cells to execute the analysis and generate visualizations.
 
-## Results
-
-The analysis results are documented in:
-
-- **Analysis of health care facilities.pdf**: A PDF report detailing the findings and recommendations.
-- **Analysis of health care facilities.pptx**: A PowerPoint presentation summarizing the key insights and recommendations.
-
 ---
 
 ### Key Features:

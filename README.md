@@ -1,9 +1,4 @@
-
-# Project Title
-
-# Health Care Solutions
-
-Welcome to the Health Care Solutions project repository! This project aims to analyze healthcare facilities and services to provide actionable insights for improving healthcare delivery.
+**Project Title:** _(Health Care Analysis)_
 
 ## Project Overview
 
@@ -15,12 +10,6 @@ The data used in this project comes from various sources:
 
 - **ehealth-kenya.xls**: Contains detailed information about healthcare facilities in Kenya.
 - **population.csv**: Contains population data used to provide context and insights into healthcare needs.
-
-## Features
-
-- **Data Analysis**: In-depth analysis of healthcare facilities and services.
-- **Data Visualization**: Visual representation of healthcare data for better understanding and insights.
-- **Reporting**: Detailed reports and presentations on findings and recommendations.
 
 ## Installation
 
@@ -57,13 +46,7 @@ The analysis results are documented in:
 - **Analysis of health care facilities.pdf**: A PDF report detailing the findings and recommendations.
 - **Analysis of health care facilities.pptx**: A PowerPoint presentation summarizing the key insights and recommendations.
 
-**Project Title:** _(Health Care Analysis)_
-
 ---
-
-## Overview
-
-This project provides an analysis of health facility data using various tools including SQL databases and a Jupyter Notebook for data visualization. The project focuses on analyzing database distributions and offering insights into bed and cot capacities, inpatient services (IPD), and other health facility attributes.
 
 ### Key Features:
 - **SQL Database**: Contains health facility data in a structured format, with several tables for querying.

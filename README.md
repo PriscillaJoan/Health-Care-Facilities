@@ -44,7 +44,6 @@ To run the project and see the analysis:
 ### Key Features:
 - **SQL Database**: Contains health facility data in a structured format, with several tables for querying.
 - **Jupyter Notebook**: Includes data analysis, visualizations, and queries for examining health facility characteristics.
-- **Image Representation**: Visualizes the distribution of data in the database (e.g., bed capacities, IPD availability, types of hospitals).
 - **Tableau Story**: Provides a detailed story about the different insights captured from the data.
 - **Data Base Image**: Visualizes the different relationships between tables.
 

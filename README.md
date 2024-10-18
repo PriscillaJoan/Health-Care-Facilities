@@ -18,7 +18,7 @@ To set up the project on your local machine, follow these steps:
 1. **Clone the repository**:
 
    ```
-   git clone https://github.com/PriscillaJoan/Health-Care-Solutions.git
+   git clone https://github.com/PriscillaJoan/Health-Care-Facilities.git
    ```
 
 2. **Navigate to the project directory**:

@@ -53,7 +53,7 @@ To run the project and see the analysis:
 This repository contains the following files:
 
 1. **`final workbook.ipynb`**: Jupyter Notebook file with the data analysis, SQL queries, and visualizations.
-2. **`database.sql`**: The SQL file containing the database schema and initial data setup.
+2. **`health_info.sql`**: The SQL file containing the database schema and initial data setup.
 3. **`data_distribution.png`**: Image showing the different relationships between tables.
 4. **`table_story.txt`**: A link containing  the tableau story showing the different insights captured from the data.
 5. **`Health Facilities Analysis.pptx`**: The power point presentation.

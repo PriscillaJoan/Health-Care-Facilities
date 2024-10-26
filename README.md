@@ -37,7 +37,7 @@ To run the project and see the analysis:
    jupyter notebook
    ```
 
-2. **Navigate to the `final workbook.ipynb` notebook** in the Jupyter interface and run the cells to execute the analysis and generate visualizations.
+2. **Navigate to the `.ipynb` notebooks** in the Jupyter interface and run the cells to execute the data preparation.
 
 ---
 

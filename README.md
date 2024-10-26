@@ -18,7 +18,7 @@ To set up the project on your local machine, follow these steps:
 1. **Clone the repository**:
 
    ```
-   git clone https://github.com/PriscillaJoan/Health-Care-Solutions.git
+   git clone https://github.com/PriscillaJoan/Health-Care-Facilities.git
    ```
 
 2. **Navigate to the project directory**:
@@ -44,7 +44,6 @@ To run the project and see the analysis:
 ### Key Features:
 - **SQL Database**: Contains health facility data in a structured format, with several tables for querying.
 - **Jupyter Notebook**: Includes data analysis, visualizations, and queries for examining health facility characteristics.
-- **Image Representation**: Visualizes the distribution of data in the database (e.g., bed capacities, IPD availability, types of hospitals).
 - **Tableau Story**: Provides a detailed story about the different insights captured from the data.
 - **Data Base Image**: Visualizes the different relationships between tables.
 
@@ -54,7 +53,7 @@ To run the project and see the analysis:
 This repository contains the following files:
 
 1. **`final workbook.ipynb`**: Jupyter Notebook file with the data analysis, SQL queries, and visualizations.
-2. **`database.sql`**: The SQL file containing the database schema and initial data setup.
+2. **`health_info.sql`**: The SQL file containing the database schema and initial data setup.
 3. **`data_distribution.png`**: Image showing the different relationships between tables.
 4. **`table_story.txt`**: A link containing  the tableau story showing the different insights captured from the data.
 5. **`Health Facilities Analysis.pptx`**: The power point presentation.

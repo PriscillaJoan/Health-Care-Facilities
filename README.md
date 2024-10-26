@@ -52,16 +52,16 @@ To run the project and see the analysis:
 
 This repository contains the following files:
 
-1. **datacleaning and database conversion.ipynb**: Jupyter Notebook containing the data cleaning process and conversion of health facilities data into an SQL script.
-2. **combining datasets.ipynb** Jupyter Notebook for combining population data and health facilities data.
+1. **datacleaning and database conversion.ipynb**: jupyter notebook containing the data cleaning process and conversion of health facilities data into an SQL script.
+2. **combining datasets.ipynb** jupyter notebook for combining population data and health facilities data.
 3. **database.sql`**: SQL file with the database schema and initial data setup.
-4. **data_distribution.png**: Image visualizing relationships between the tables.
-5. **table_story.txt**: Link to the Tableau story showcasing insights from the data.
-6. **Tableau Workbook**: Workbook containing data insights generated from Tableau.
-7. **Nairobi_data**: CSV file with data on health facilities in Nairobi.
-8. **Population** : CSV with population data for Nairobi.
-9. **Facilities_data**: Combined CSV file of Nairobi health facilities data and population data.
-10. **ehealth-kenya.xls**: Excel file with health facilities data for the entire country.
+4. **data_distribution.png**:image visualizing relationships between the tables.
+5. **table_story.txt**: link to the tableau story showcasing insights from the data.
+6. **Tableau Workbook**: workbook containing data insights generated from tableau.
+7. **Nairobi_data**: CSV file with data on health facilities in nairobi.
+8. **Population** : CSV with population data for nairobi.
+9. **Facilities_data**: combined CSV file of nairobi health facilities data and population data.
+10. **ehealth-kenya.xls**: excel file with health facilities data for the entire country.
 ---
 
 ## Requirements
